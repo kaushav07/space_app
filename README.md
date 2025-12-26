@@ -1,16 +1,34 @@
-# space_app
+# Space App UI
 
-A new Flutter project.
+A Flutter based **space exploration UI app** that showcases information about different **planets in the solar system**.  
+This project focuses on **user interface design** and visual presentation of planetary data.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Purpose of the Project
 
-A few resources to get you started if this is your first Flutter project:
+- Practice Flutter UI layouts
+- Design visually rich screens
+- Improve UI/UX for educational apps
+- Create space themed interfaces
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Planet overview screens
+- Planet details UI
+- Planet size and distance layout
+- Space themed design and visuals
+- Smooth and responsive UI
+
+> ⚠️ Note: This is a **UI only project**.  
+> All planet information shown is **static/demo content**.
+
+---
+
+## Tech Stack
+
+- **Flutter**
+- **Dart**
+- Custom UI widgets
